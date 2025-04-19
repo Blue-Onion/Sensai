@@ -1,13 +1,18 @@
 import puppeteer from "puppeteer";
+import { marked } from "marked";// Import the marked library
 
 export async function POST(req) {
     try {
-        const { html } = await req.json(); // Get HTML content from request
+        const { html } = await req.json(); // Get HTML content (which is currently markdown) from request
+
+        // Convert the markdown to HTML
+        const renderedHtml = marked.parse(html);
 
         const browser = await puppeteer.launch({ headless: "new" });
         const page = await browser.newPage();
 
-        await page.setContent(html, { waitUntil: "domcontentloaded" });
+        // Set the *rendered* HTML content
+        await page.setContent(renderedHtml, { waitUntil: "domcontentloaded" });
 
         const pdfBuffer = await page.pdf({ format: "A4", printBackground: true });
 

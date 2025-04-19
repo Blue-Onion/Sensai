@@ -1,13 +1,12 @@
 "use server";
-
 import { db } from "@/lib/prisma";
 import { auth } from "@clerk/nextjs/server";
 import { generateAIInsights } from "./dashboard";
 
 export async function updateUser(data) {
-    console.log("Updating user with data:", data);
+
     const { userId } = await auth();
-    console.log("User ID from auth:", userId);
+
   
     if (!userId) throw new Error("Unauthorized");
   
@@ -22,9 +21,9 @@ export async function updateUser(data) {
     });
   
     if (!industryInsight) {
-      console.log("Generating insights...");
+
       const insights = await generateAIInsights(data.industry);
-      console.log("Generated insights");
+
   
       industryInsight = await db.industryInsight.create({
         data: {

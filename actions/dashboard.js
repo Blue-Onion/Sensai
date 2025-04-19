@@ -10,7 +10,7 @@ const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 export const generateAIInsights = async (industry) => {
   const { userId } = await auth();
   if (!userId) throw new Error("Unauthorized");
-console.log("i am gene");
+
 
   const user = await db.user.findUnique({
     where: { clerkUserId: userId },
@@ -46,7 +46,7 @@ console.log("i am gene");
   const text = res.text();
   const cleanedText = text.replace(/```(?:json)?\n?/g, "").trim();
 
-  console.log(cleanedText);
+
   return JSON.parse(cleanedText);
   
 };

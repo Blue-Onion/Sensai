@@ -158,7 +158,7 @@ export default function Home() {
               return (
   <AccordionItem key={index} value={`item-${index}`}>
     <AccordionTrigger>{faq.question}</AccordionTrigger>
-    <AccordionContent>
+    <AccordionContent className={"text-left"}>
     {faq.answer}
     </AccordionContent>
   </AccordionItem>
