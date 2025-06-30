@@ -43,7 +43,7 @@ const Herosection = () => {
             <Link href="/dashboard">
             <Button size={"lg"} className="px-8">Get Started</Button>
             </Link>
-            <Link target='_blank' href="https://www.youtube.com/watch?v=6dYWe1c3OyU">
+            <Link target='_blank' href="https://github.com/Blue-Onion/Sensai">
             <Button size={"lg"} className="px-8" variant="outline">Learn More</Button>
             </Link>
             </div>
