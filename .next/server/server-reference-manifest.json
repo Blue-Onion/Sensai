@@ -1,0 +1,167 @@
+{
+  "node": {
+    "7f59d5e85e87cd7f53a4411aa846df6ed3817e614a": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fdashboard.js%22%2C%5B%7B%22id%22%3A%2200b4610f8cc01996d2268c73ed0101073596d0b790%22%2C%22exportedName%22%3A%22getIndustryInsights%22%7D%2C%7B%22id%22%3A%227fd1fa5b905b7c4aab1effba06284374cd9c094732%22%2C%22exportedName%22%3A%22generateAIInsights%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fuser.js%22%2C%5B%7B%22id%22%3A%2200a35f5a71d718bb406a0525a4bc3f1ba2d63a892e%22%2C%22exportedName%22%3A%22getUserOnboarding%22%7D%2C%7B%22id%22%3A%224044849beeec92e04200176557b3892e77eb6f4cdc%22%2C%22exportedName%22%3A%22updateUser%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fresume.js%22%2C%5B%7B%22id%22%3A%22009af0a5151480ed43db637487297cf0d451c40d35%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%224001dac6aae3eabc6ccf785e1af7a4b28433e0d6a4%22%2C%22exportedName%22%3A%22saveResume%22%7D%2C%7B%22id%22%3A%2240a5a8c089747ed7940bd7f8ed9f05201d9609cc90%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(main)/dashboard/page": "rsc",
+        "app/(main)/resume/page": "rsc"
+      }
+    },
+    "7f79e86b5772eae36041fee5864efaee8798827efe": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fdashboard.js%22%2C%5B%7B%22id%22%3A%2200b4610f8cc01996d2268c73ed0101073596d0b790%22%2C%22exportedName%22%3A%22getIndustryInsights%22%7D%2C%7B%22id%22%3A%227fd1fa5b905b7c4aab1effba06284374cd9c094732%22%2C%22exportedName%22%3A%22generateAIInsights%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fuser.js%22%2C%5B%7B%22id%22%3A%2200a35f5a71d718bb406a0525a4bc3f1ba2d63a892e%22%2C%22exportedName%22%3A%22getUserOnboarding%22%7D%2C%7B%22id%22%3A%224044849beeec92e04200176557b3892e77eb6f4cdc%22%2C%22exportedName%22%3A%22updateUser%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fresume.js%22%2C%5B%7B%22id%22%3A%22009af0a5151480ed43db637487297cf0d451c40d35%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%224001dac6aae3eabc6ccf785e1af7a4b28433e0d6a4%22%2C%22exportedName%22%3A%22saveResume%22%7D%2C%7B%22id%22%3A%2240a5a8c089747ed7940bd7f8ed9f05201d9609cc90%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(main)/dashboard/page": "rsc",
+        "app/(main)/resume/page": "rsc"
+      }
+    },
+    "7ff8f42b77cb9ac443087d741bcd9541383c2e1a05": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fdashboard.js%22%2C%5B%7B%22id%22%3A%2200b4610f8cc01996d2268c73ed0101073596d0b790%22%2C%22exportedName%22%3A%22getIndustryInsights%22%7D%2C%7B%22id%22%3A%227fd1fa5b905b7c4aab1effba06284374cd9c094732%22%2C%22exportedName%22%3A%22generateAIInsights%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fuser.js%22%2C%5B%7B%22id%22%3A%2200a35f5a71d718bb406a0525a4bc3f1ba2d63a892e%22%2C%22exportedName%22%3A%22getUserOnboarding%22%7D%2C%7B%22id%22%3A%224044849beeec92e04200176557b3892e77eb6f4cdc%22%2C%22exportedName%22%3A%22updateUser%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fresume.js%22%2C%5B%7B%22id%22%3A%22009af0a5151480ed43db637487297cf0d451c40d35%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%224001dac6aae3eabc6ccf785e1af7a4b28433e0d6a4%22%2C%22exportedName%22%3A%22saveResume%22%7D%2C%7B%22id%22%3A%2240a5a8c089747ed7940bd7f8ed9f05201d9609cc90%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(main)/dashboard/page": "rsc",
+        "app/(main)/resume/page": "rsc"
+      }
+    },
+    "7fe4d10605439e56c0e9b040a876b727cd0b5ef798": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%7B%22id%22%3A%227fe4d10605439e56c0e9b040a876b727cd0b5ef798%22%2C%22exportedName%22%3A%22invalidateCacheAction%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(main)/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%7B%22id%22%3A%227fe4d10605439e56c0e9b040a876b727cd0b5ef798%22%2C%22exportedName%22%3A%22invalidateCacheAction%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(main)/resume/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%7B%22id%22%3A%227fe4d10605439e56c0e9b040a876b727cd0b5ef798%22%2C%22exportedName%22%3A%22invalidateCacheAction%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/(main)/dashboard/page": "action-browser",
+        "app/(main)/resume/page": "action-browser"
+      }
+    },
+    "00b4610f8cc01996d2268c73ed0101073596d0b790": {
+      "workers": {
+        "app/(main)/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fdashboard.js%22%2C%5B%7B%22id%22%3A%2200b4610f8cc01996d2268c73ed0101073596d0b790%22%2C%22exportedName%22%3A%22getIndustryInsights%22%7D%2C%7B%22id%22%3A%227fd1fa5b905b7c4aab1effba06284374cd9c094732%22%2C%22exportedName%22%3A%22generateAIInsights%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fuser.js%22%2C%5B%7B%22id%22%3A%2200a35f5a71d718bb406a0525a4bc3f1ba2d63a892e%22%2C%22exportedName%22%3A%22getUserOnboarding%22%7D%2C%7B%22id%22%3A%224044849beeec92e04200176557b3892e77eb6f4cdc%22%2C%22exportedName%22%3A%22updateUser%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/dashboard/page": "rsc"
+      }
+    },
+    "7fd1fa5b905b7c4aab1effba06284374cd9c094732": {
+      "workers": {
+        "app/(main)/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fdashboard.js%22%2C%5B%7B%22id%22%3A%2200b4610f8cc01996d2268c73ed0101073596d0b790%22%2C%22exportedName%22%3A%22getIndustryInsights%22%7D%2C%7B%22id%22%3A%227fd1fa5b905b7c4aab1effba06284374cd9c094732%22%2C%22exportedName%22%3A%22generateAIInsights%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fuser.js%22%2C%5B%7B%22id%22%3A%2200a35f5a71d718bb406a0525a4bc3f1ba2d63a892e%22%2C%22exportedName%22%3A%22getUserOnboarding%22%7D%2C%7B%22id%22%3A%224044849beeec92e04200176557b3892e77eb6f4cdc%22%2C%22exportedName%22%3A%22updateUser%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/dashboard/page": "rsc"
+      }
+    },
+    "00a35f5a71d718bb406a0525a4bc3f1ba2d63a892e": {
+      "workers": {
+        "app/(main)/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fdashboard.js%22%2C%5B%7B%22id%22%3A%2200b4610f8cc01996d2268c73ed0101073596d0b790%22%2C%22exportedName%22%3A%22getIndustryInsights%22%7D%2C%7B%22id%22%3A%227fd1fa5b905b7c4aab1effba06284374cd9c094732%22%2C%22exportedName%22%3A%22generateAIInsights%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fuser.js%22%2C%5B%7B%22id%22%3A%2200a35f5a71d718bb406a0525a4bc3f1ba2d63a892e%22%2C%22exportedName%22%3A%22getUserOnboarding%22%7D%2C%7B%22id%22%3A%224044849beeec92e04200176557b3892e77eb6f4cdc%22%2C%22exportedName%22%3A%22updateUser%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/dashboard/page": "rsc"
+      }
+    },
+    "4044849beeec92e04200176557b3892e77eb6f4cdc": {
+      "workers": {
+        "app/(main)/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fdashboard.js%22%2C%5B%7B%22id%22%3A%2200b4610f8cc01996d2268c73ed0101073596d0b790%22%2C%22exportedName%22%3A%22getIndustryInsights%22%7D%2C%7B%22id%22%3A%227fd1fa5b905b7c4aab1effba06284374cd9c094732%22%2C%22exportedName%22%3A%22generateAIInsights%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fuser.js%22%2C%5B%7B%22id%22%3A%2200a35f5a71d718bb406a0525a4bc3f1ba2d63a892e%22%2C%22exportedName%22%3A%22getUserOnboarding%22%7D%2C%7B%22id%22%3A%224044849beeec92e04200176557b3892e77eb6f4cdc%22%2C%22exportedName%22%3A%22updateUser%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/dashboard/page": "rsc"
+      }
+    },
+    "009af0a5151480ed43db637487297cf0d451c40d35": {
+      "workers": {
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fresume.js%22%2C%5B%7B%22id%22%3A%22009af0a5151480ed43db637487297cf0d451c40d35%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%224001dac6aae3eabc6ccf785e1af7a4b28433e0d6a4%22%2C%22exportedName%22%3A%22saveResume%22%7D%2C%7B%22id%22%3A%2240a5a8c089747ed7940bd7f8ed9f05201d9609cc90%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/resume/page": "rsc"
+      }
+    },
+    "4001dac6aae3eabc6ccf785e1af7a4b28433e0d6a4": {
+      "workers": {
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fresume.js%22%2C%5B%7B%22id%22%3A%22009af0a5151480ed43db637487297cf0d451c40d35%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%224001dac6aae3eabc6ccf785e1af7a4b28433e0d6a4%22%2C%22exportedName%22%3A%22saveResume%22%7D%2C%7B%22id%22%3A%2240a5a8c089747ed7940bd7f8ed9f05201d9609cc90%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/resume/page": "rsc"
+      }
+    },
+    "40a5a8c089747ed7940bd7f8ed9f05201d9609cc90": {
+      "workers": {
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f59d5e85e87cd7f53a4411aa846df6ed3817e614a%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227f79e86b5772eae36041fee5864efaee8798827efe%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227ff8f42b77cb9ac443087d741bcd9541383c2e1a05%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fadityasinghrawat%2Fwork%2Fproject%2FSensai%2Factions%2Fresume.js%22%2C%5B%7B%22id%22%3A%22009af0a5151480ed43db637487297cf0d451c40d35%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%224001dac6aae3eabc6ccf785e1af7a4b28433e0d6a4%22%2C%22exportedName%22%3A%22saveResume%22%7D%2C%7B%22id%22%3A%2240a5a8c089747ed7940bd7f8ed9f05201d9609cc90%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/resume/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "3nM7VP+NmuoBaKfjM0OCkNrs7PmhnPWiDXOhRpQUWrA="
+}
